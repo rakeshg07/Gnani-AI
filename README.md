@@ -279,3 +279,5 @@ python admin.py --db
   - [`docs/GNANI_INTEGRATION.md`](file:///c:/Users/Rakesh%20G/OneDrive/Desktop/GNANI%20AI/docs/GNANI_INTEGRATION.md)
   - [`docs/IMPLEMENTATION_PLAN.md`](file:///c:/Users/Rakesh%20G/OneDrive/Desktop/GNANI%20AI/docs/IMPLEMENTATION_PLAN.md)
 - [x] Complete test suite passing: `pytest backend/tests` (45 passed, 1 skipped real inference test pending remote GPU deployment).
+#   G n a n i - A I  
+ 
